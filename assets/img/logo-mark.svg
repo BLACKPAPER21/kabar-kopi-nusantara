@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Logo Kopi Nusantara">
+  <circle cx="32" cy="32" r="31" fill="#2B1B12"/>
+  <circle cx="32" cy="32" r="27" fill="none" stroke="#C8A15A" stroke-width="1.5" opacity=".7"/>
+  <g transform="rotate(-22 32 32)">
+    <ellipse cx="32" cy="32" rx="11.5" ry="18" fill="#F4E3C8"/>
+    <path d="M32 15.5c-6.2 7.2 6.2 25.8 0 33" fill="none" stroke="#6F4E37" stroke-width="2.6" stroke-linecap="round"/>
+  </g>
+</svg>
